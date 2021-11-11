@@ -1,0 +1,1 @@
+web gunicorn world_bank_data_app:app
