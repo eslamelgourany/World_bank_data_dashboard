@@ -2,7 +2,7 @@
 
 <div id="top"></div>
 
-### The App is on: https://worldbankdata-application.herokuapp.com/
+### The App is online: https://worldbankdata-application.herokuapp.com/
 
 #### Table of Contents
 
